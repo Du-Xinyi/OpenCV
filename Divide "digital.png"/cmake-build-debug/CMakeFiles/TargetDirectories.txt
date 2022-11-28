@@ -1,3 +1,0 @@
-/home/duxinyi/Code/OpenCV/Divide digital.png/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/duxinyi/Code/OpenCV/Divide digital.png/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/duxinyi/Code/OpenCV/Divide digital.png/cmake-build-debug/CMakeFiles/Divide_digital_png.dir
